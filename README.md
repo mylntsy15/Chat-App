@@ -30,7 +30,7 @@ This project is a real-time chat application built with Flutter and Google Fireb
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/realtime-chat-app.git
+    git clone https://github.com/mylntsy/realtime-chat-app.git
     cd realtime-chat-app
     ```
 
